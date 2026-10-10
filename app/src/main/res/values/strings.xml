@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meine Aufgaben</string>
+    <string name="hint_new_task">Neue Aufgabe…</string>
+    <string name="add">Hinzufügen</string>
+    <string name="empty">Keine Aufgaben – alles erledigt! 🎉</string>
+    <string name="clear_done">Erledigte löschen</string>
+    <string name="delete_title">Aufgabe löschen?</string>
+    <string name="delete">Löschen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="open_count">%1$d offen · %2$d erledigt</string>
+</resources>
